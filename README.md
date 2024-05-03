@@ -7,7 +7,7 @@ CSCI 570 is a comprehensive course focused on the design and analysis of algorit
 
 **Textbook References:**
 
-- *[Algorithm Design](Syllabus/Algorithm Design - Jon Kleinberg.pdf)* by Jon Kleinberg and Eva Tardos
+- *[Algorithm Design](./Syllabus/Algorithm Design - Jon Kleinberg.pdf)* by Jon Kleinberg and Eva Tardos
 - *Introduction to Algorithms* (2nd or 3rd Edition) by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Cliff Stein
 
 ## Topics Covered
@@ -28,6 +28,7 @@ List of key topics covered in the course:
 - [Exams](./Exams): Contains exam-related documents and information. This folder is used for uploading exams and providing students with necessary exam instructions and materials.
 - [Homework](./Homework): This folder is designated for weekly homework assignments. Students are expected to download, complete, and submit their homework here.
 - [Homework_Solutions](./Homework_solutions): Post-solution documents for homework assignments. Solutions will be uploaded here after the completion of each homework deadline.
-- [My_Homeworks](./My_homeworks): A personal space for students to upload their completed homework assignments for grading.
-- [Project](./Project): Contains all materials related to the final project, including guidelines, datasets, and submission details. 
+- [My_Homeworks](./My_homeworks): My personal space includes my handwritten assignments along with the scores I've earned indicated in the file names.
+- [Project](./Project): Contains all materials related to the final project, including guidelines, datasets, and submission details.
+  - My teammates: [@Xiangjie Yuan](https://github.com/Xiangjie-Yuan) @Chenchao Lin
 - [Slides](./Slides):Lecture slides and additional teaching materials are uploaded here for each class session.
