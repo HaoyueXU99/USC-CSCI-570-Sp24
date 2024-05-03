@@ -13,7 +13,7 @@ Shawn Shamsian
 
 **Textbook References:**
 
-- *Algorithm Design* by Jon Kleinberg and Eva Tardos. Check it under Syllabus fol
+- *Algorithm Design* by Jon Kleinberg and Eva Tardos. Check it under Syllabus folder.
 - *Introduction to Algorithms* (2nd or 3rd Edition) by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Cliff Stein
 
 ## Topics Covered
