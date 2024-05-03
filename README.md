@@ -7,7 +7,7 @@ CSCI 570 is a comprehensive course focused on the design and analysis of algorit
 
 **Textbook References:**
 
-- *[Algorithm Design](./Syllabus/Algorithm Design - Jon Kleinberg.pdf)* by Jon Kleinberg and Eva Tardos
+- *Algorithm Design* by Jon Kleinberg and Eva Tardos. Check it under Syllabus folder.
 - *Introduction to Algorithms* (2nd or 3rd Edition) by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Cliff Stein
 
 ## Topics Covered
