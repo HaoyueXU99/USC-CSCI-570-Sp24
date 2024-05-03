@@ -8,7 +8,7 @@
 **Course Description:**  
 CSCI 570 is a comprehensive course focused on the design and analysis of algorithms. Students learn key algorithmic techniques like divide and conquer, greedy, and dynamic programming. The course also delves into network flow, NP-completeness, approximation algorithms, and linear programming. Practical applications are explored through examples relevant to solving industry problems.
 
-**Instructor**
+**Instructor:** 
 Shawn Shamsian
 
 **Textbook References:**
