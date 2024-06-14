@@ -30,9 +30,9 @@ List of key topics covered in the course:
 ## Repository Structure
 
 - [Discussions](./Discussions): Folder for storing discussion materials on class.
-- [Exams](./Exams): Contains exam-related documents and information. This folder is used for uploading exams and providing students with necessary exam instructions and materials.
-- [Homework](./Homework): This folder is designated for weekly homework assignments. Students are expected to download, complete, and submit their homework here.
-- [Homework_Solutions](./Homework_solutions): Post-solution documents for homework assignments. Solutions will be uploaded here after the completion of each homework deadline.
+- [Exams](./Exams): Contains exam-related documents and information. Necessary exam instructions and materials are included.
+- [Homework](./Homework): This folder is designated for weekly homework assignments. Original files are included.
+- [Homework_Solutions](./Homework_solutions): Post-solution documents for homework assignments. Both Fall22 and Spring24 answers are included.
 - [My_Homeworks](./My_homeworks): My personal space includes my handwritten assignments along with the scores I've earned indicated in the file names.
 - [Project](./Project): Contains all materials related to the final project, including guidelines, datasets, and submission details.
   - My teammates: [@Xiangjie Yuan](https://github.com/Xiangjie-Yuan) @Chenchao Lin
