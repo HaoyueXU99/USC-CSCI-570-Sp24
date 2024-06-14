@@ -29,7 +29,7 @@ List of key topics covered in the course:
 
 ## Repository Structure
 
-- [Discussions](./Discussions): Folder for storing discussion-related materials and student interactions. Use this space for Q&A and collaborative discussions on course topics.
+- [Discussions](./Discussions): Folder for storing discussion materials on class.
 - [Exams](./Exams): Contains exam-related documents and information. This folder is used for uploading exams and providing students with necessary exam instructions and materials.
 - [Homework](./Homework): This folder is designated for weekly homework assignments. Students are expected to download, complete, and submit their homework here.
 - [Homework_Solutions](./Homework_solutions): Post-solution documents for homework assignments. Solutions will be uploaded here after the completion of each homework deadline.
